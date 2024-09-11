@@ -39,7 +39,7 @@ To run this project, you need Python and the required libraries installed. Follo
 2. **Navigate to the project directory:**
 
    ```bash
-   cd linear-regression-gradient-descent
+   cd Linear Regression from scratch with gradient descent
    ```
 
 3. **Install the required libraries:**
@@ -55,7 +55,7 @@ To run this project, you need Python and the required libraries installed. Follo
 5. **Run the Script:**
 
    ```bash
-   python script.py
+   jupyter notebook Linear Regression Gradient Descent.ipynb
    ```
 
 ## Usage
