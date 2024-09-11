@@ -33,7 +33,7 @@ To run this project, you need Python and the required libraries installed. Follo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/xgagandeep/Linear-Regression-from-scratch-gradient-descent.git
+   git clone https://github.com/xgagandeep/Linear-Regression-from-scratch-with-gradient-descent.git
    ```
 
 2. **Navigate to the project directory:**
